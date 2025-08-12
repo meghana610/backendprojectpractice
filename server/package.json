@@ -1,0 +1,26 @@
+{
+  "name": "todoprojectpractice",
+  "version": "1.0.0",
+  "description": "practicing backend project steps",
+  "main": "one.js",
+  "scripts": {
+    "start":"node one.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meghana610/backendprojectpractice.git"
+  },
+  "keywords": [
+    "backend",
+    "project",
+    "practice",
+    "git",
+    "github"
+  ],
+  "author": "Meghana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghana610/backendprojectpractice/issues"
+  },
+  "homepage": "https://github.com/meghana610/backendprojectpractice#readme"
+}
